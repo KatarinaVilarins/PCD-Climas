@@ -1,2 +1,2 @@
 # PCD-Climas
-lê, compila, plota, informações
+plotador de gráficos que compilam dados climáticos das regiões e atividades lúdicas compatíveis
